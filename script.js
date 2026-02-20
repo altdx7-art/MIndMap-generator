@@ -70,6 +70,7 @@ modeToggle.addEventListener('change', function() {
     }
 });
 
+
 function downloadMindMap() {
     
 }
